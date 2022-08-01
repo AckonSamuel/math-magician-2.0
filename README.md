@@ -12,9 +12,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 git clone https://github.com/AckonSamuel/math-magician.git
 ```
-**step2** build the project:
+**step2** cd into the math-magician directory:
 ```
-npm start
+cd <Relative path>/math-magician
+```
+
+**step3** install dependencies:
+```
+npm i
+```
+
+**step4** build the project:
+```
+npm run build
 ```
 ## Available Scripts
 
@@ -25,8 +35,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
