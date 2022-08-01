@@ -1,3 +1,4 @@
+
 # Math Magicians
 This branch is the first step of the Math Magicians application. In this branch the environment and tools needed to develop a React application are setted up. In the following stepss, the actual application will be developed.
 
@@ -12,9 +13,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 git clone https://github.com/AckonSamuel/math-magician.git
 ```
-**step2** build the project:
+**step2** cd into the math-magician directory:
 ```
-npm start
+cd <Relative path>/math-magician
+```
+
+**step3** install dependencies:
+```
+npm i
+```
+
+**step4** build the project:
+```
+npm run build
 ```
 ## Available Scripts
 
