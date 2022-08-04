@@ -13,7 +13,7 @@ class Calculator extends Component {
   render() {
     return (
       <div className="calc-container">
-        <div className="calc-input">0</div>
+        <h1 className="calc-input">0</h1>
         <div className="calc-keys">
           <Button buttons={digits} />
           <Button buttons={operators} />
